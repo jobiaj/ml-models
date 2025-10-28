@@ -1,0 +1,11 @@
+Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname,Propertycount
+Abbotsford,85 Barker St,2,h,1480000,S,Nelson,03/12/2016,2.5,3067,2,1,1,202,156,1900,Yarra,-37.8079,144.9934,Eastern Metropolitan,4019
+Abbotsford,25 Nicholson St,3,h,1035000,S,Jellis,04/02/2016,2.5,3067,3,2,2,156,150,1910,Yarra,-37.8093,144.9944,Eastern Metropolitan,4019
+Airport West,18 Hawker St,3,h,1170000,SP,Barry,11/02/2017,8.6,3042,3,2,2,618,220,1995,Moonee Valley,-37.7250,144.8860,Northern Metropolitan,3464
+Altona,5 Queen St,4,h,1450000,S,Jellis,18/03/2017,13.5,3018,4,3,2,512,250,2008,Hobsons Bay,-37.8675,144.8300,Western Metropolitan,6399
+Armadale,10 Morey St,2,u,980000,SP,Marshall,25/02/2017,5.2,3143,2,1,1,0,80,1970,Stonnington,-37.8555,145.0170,Southern Metropolitan,4396
+Balwyn,16 Union Rd,4,h,1875000,S,Kay,13/05/2017,10.0,3103,4,3,2,701,230,2005,Boroondara,-37.8100,145.0850,Eastern Metropolitan,9456
+Bentleigh,22 Higgins Rd,3,h,1310000,SP,Woodards,11/03/2017,11.2,3204,3,2,2,600,210,2010,Glen Eira,-37.9270,145.0410,Southern Metropolitan,7894
+Brunswick,9 Edward St,2,h,870000,S,Nelson,07/05/2016,5.5,3056,2,1,1,180,100,1925,Moreland,-37.7655,144.9625,Northern Metropolitan,5290
+Camberwell,12 Prospect Hill Rd,5,h,2800000,SP,Marshall,09/09/2017,10.2,3124,5,4,3,870,340,2012,Boroondara,-37.8330,145.0650,Eastern Metropolitan,8895
+Carlton,8 Lygon St,2,u,750000,S,Hocking,05/11/2016,1.2,3053,2,1,1,0,75,1990,Melbourne,-37.8000,144.9670,Inner City,5941
